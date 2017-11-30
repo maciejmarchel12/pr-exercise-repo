@@ -16,4 +16,5 @@ Adam Lalor
 Kieran Hanrahan
 Big Shaq
 
-
+Dominik Kawka
+Living is for the wicked
