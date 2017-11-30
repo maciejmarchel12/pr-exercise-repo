@@ -18,4 +18,7 @@ Maciej
 Jameel
 "This is jameel's change!! :)"
 
+Kieran
+"Work so one day your idol's become your rivals"
+
 Adam-"1-800-Youre-Welcome"
