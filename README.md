@@ -17,3 +17,5 @@ Maciej
 Jameel
 "This is jameel's change!! :)"
 
+Kieran
+"Work so one day your idols become your rivals"
