@@ -8,12 +8,17 @@ sample branch changes
 
 Add your name and and one other line here:
 
+
 Dominik Kawka
 life is like an box of chocolates, you'll never what you're gonna get
+
 
 Maciej
 "I find your lack of faith disturbing"
 
 Jameel
 "This is jameel's change!! :)"
+
+Adam-"1-800-Youre-Welcome"
+
 
