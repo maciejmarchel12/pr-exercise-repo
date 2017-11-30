@@ -9,5 +9,9 @@ sample branch changes
 
 Add your name and and one other line here:
 
+
 Adam Lalor
 "We all make choices in life, but in the end our choices make us." 
+
+Kieran Hanrahan
+Big Shaq
