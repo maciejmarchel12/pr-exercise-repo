@@ -10,7 +10,7 @@ Add your name and and one other line here:
 
 
 Dominik Kawka
-life is like an box of chocolates, you'll never what you're gonna get, especially when you're using git
+life is like an box of chocolates, you'll never what you're gonna get, especially when you're using git...
 
 
 Maciej
