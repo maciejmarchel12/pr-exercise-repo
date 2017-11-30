@@ -9,5 +9,13 @@ sample branch changes
 
 Add your name and and one other line here:
 
-Maciej “I find your lack of faith disturbing.”
+
+
+Adam Lalor
+"We all make choices in life, but in the end our choices make us." 
+
+Kieran Hanrahan
+Big Shaq
+
+
 
