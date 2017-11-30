@@ -7,4 +7,7 @@ made some other changes
 
 sample branch changes
 
-Maciej
+Add your name and and one other line here:
+
+Maciej “I find your lack of faith disturbing.”
+
