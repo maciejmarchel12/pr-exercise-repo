@@ -8,16 +8,5 @@ sample branch changes
 
 Add your name and and one other line here:
 
-
-
-Adam Lalor
-"We all make choices in life, but in the end our choices make us." 
-
-Kieran Hanrahan
-Big Shaq
-
 Dominik Kawka
-Living is for the wicked
-
-Maciej Marchel
-"I find your lack of faith disturbing"
+life is like an box of chocolates, you'll never what you're gonna get
