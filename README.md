@@ -7,3 +7,7 @@ made some other changes
 sample branch changes
 
 Add your name and and one other line here:
+
+Jameel Briones
+- I love cats!
+
